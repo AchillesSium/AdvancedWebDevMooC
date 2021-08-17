@@ -1,0 +1,17 @@
+.note {
+	color: #fff;
+  background-color: #198754;
+  padding: 0.5em;
+  border: 2px solid #277551;
+  border-radius: 0.25em;
+  margin-top: 1em;
+}
+
+.error {
+	color: #fff;
+	background-color: #dc3545;
+  padding: 0.5em;
+  border: 2px solid #b72432;
+  border-radius: 0.25em;
+  margin-top: 1em;
+}
